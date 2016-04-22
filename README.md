@@ -3,7 +3,7 @@ PSConfEU 2016
 Feel free to contribute, add stuff, mess around and so on...
 
 Why GitHub?
-==========
+=========
 Well, it started with the warmup session on friday. Tobias wanted to share a demo script, written during the session.
 Counting the delegates in the session, he quickly realized, that "i'll put that on your sticks" couldn't be a solution.
 The idea was, just to put it on GitHub, Tobias asked me to do that, and i did that.
@@ -22,15 +22,15 @@ I started adding .MD Files for a little documentation and reminder, what the ses
 If you arent familiar with MD files you can get the documentation here: https://guides.github.com/features/mastering-markdown/
 
 Language
-=======
+======
 Considering the fact, that there has been a mix between englisch and german tracks, we should keep everything in englisch.
 If slides are only available in german, we can translate them (we, not I ;) ).
 
 Contributing
-=======
+=====
 I won't check the content of pull request and will approve everything.
 If someone else wants to manage this repository, i will happily transfer the ownership ;)
 
 Links
-=====
+====
 http://www.psconf.eu/

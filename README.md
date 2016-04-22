@@ -7,15 +7,11 @@ Why GitHub?
 Well, it started with the warmup session on friday. Tobias wanted to share a demo script, written during the session.
 Counting the delegates in the session, he quickly realized, that "i'll put that on your sticks" couldn't be a solution.
 The idea was, just to put it on GitHub, Tobias asked me to do that, and i did that.
-
 So, we could try to collect all of the useful, presented stuff here.
 I guess, the PSConf-Team will put their slides, demos and recorded sessions online as well.
-
 But it's not only about collecting the stuff, created at the conference. 
 GitHub is a great opportunity for us as a community, to stay in contact. We can discuss topics on Gitter, stay in touch, share ideas, problems and so on...
-
 So that's the basic idea - evolved from the need to share just a few lines of code. 
-
 Let's see, what can happen - there is no plan, there are no rules - maybe this isn't even a good idea.
 
 Structure

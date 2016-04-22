@@ -1,6 +1,6 @@
 PSConfEU 2016
 ==========
-Feel free to contribute, add stuff, mess around and so on...
+Feel free to contribute, add stuff, mess around and so on
 
 Why GitHub?
 =========

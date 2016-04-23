@@ -28,7 +28,7 @@ If slides are only available in german, we can translate them (we, not I ;) ).
 
 Contributing
 =====
-I won't check the content of pull request and will approve everything.
+If you want to contribute, feel free to submit pull requests. I will happily add you as contributors, feel free to contact me via mail or twitter (@baiteman).
 If someone else wants to manage this repository, i will happily transfer the ownership ;)
 
 Links

@@ -26,6 +26,18 @@ Language
 Considering the fact, that there has been a mix between englisch and german tracks, we should keep everything in englisch.
 If slides are only available in german, we can translate them (we, not I ;) ).
 
+Module
+=====
+The "Module" folder contains the start of my try, to create a small module for the PSConf.EU Stuff.
+The best way I can think of, to describe the idea are PoSh commands:
+Get-PSConfSpeaker -lastname 'Weltner' | Get-PSConfSession
+Get-PSConfSession -sessioname 'I hate Powershell' | Get-PSConfSpeaker
+Get-PSConfSession -sessioname 'I hate Powershell' | Get-PSConfResource
+
+The existing code is mainly to describe the idea, by now i don't know if it is the best way to realise the functionality (propably it isn't).
+I appreciate every contribution!
+
+
 Contributing
 =====
 If you want to contribute, feel free to submit pull requests. I will happily add you as contributors, feel free to contact me via mail or twitter (@baiteman).
